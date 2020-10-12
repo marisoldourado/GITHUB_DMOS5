@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GITHUB_DMOS5</string>
+    <string name="hint_username">enter the user name</string>
+    <string name="btn_search">Search</string>
+    <string name="name_item">repository name</string>
+    <string name="permission_allow">ALLOW</string>
+    <string name="permission_deny">deny</string>
+    <string name="request_falied">Request failed. Try again</string>
+</resources>
